@@ -4,6 +4,8 @@
 
 header {
     background: url("images/logo.png") no-repeat;
+    height: 5em;
+    margin-left: 2em;
 }
 nav {
     float: right;
@@ -30,11 +32,19 @@ span {
 h1 {
     text-align: center;
 }
+.hir
+{
+text-indent: 100%;
+white-space: nowrap;
+overflow: hidden;
+display: block;
+}
 
 #mission {
     background: url("images/main_image.png") no-repeat;
     width: 1440px;
     height: 600px;
+    position: 
 }
 
 .workwithus {
